@@ -3,7 +3,7 @@
 
 # Site Settings
 title: "Tradition and Identity"
-description: ""
+description: "Celebrating Mexican culture through music, dance, faith, and community traditions."
 url: "https://balonsoperez.github.io"
 baseurl: "/tradition-and-identity"
 author: "Brisa Alonso"
@@ -126,3 +126,5 @@ development-features:
     min_ready_viewers: 3
   skip_stories: false
   skip_collections: false
+email: ""
+story_key: 
